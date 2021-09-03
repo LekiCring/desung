@@ -1,0 +1,15 @@
+{
+  "name": "desung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aperature.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
